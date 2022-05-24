@@ -240,3 +240,5 @@ export default function Home() {
     </div>
   )
 }
+
+//thanks for watching!
