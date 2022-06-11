@@ -5,3 +5,7 @@
 > Buy me a coffee
 
 Buy me a coffee by signing in to your MetaMask wallet. In doing so, it prompts two input fields that you'll provide before paying a small ETH fee.
+
+## License
+
+This app is open-source and licensed under the MIT license. For more details, check the [License file](LICENSE).
